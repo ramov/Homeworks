@@ -1,4 +1,5 @@
-﻿// Задача №1 Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+﻿// Задача №1: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
 
 /*
 
@@ -20,8 +21,8 @@ if(firstNumber < secondNumber)
 */
 
 
+// Задача №2: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-// Задача №2 Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
 /*
 
@@ -47,7 +48,53 @@ if(max == firstNumber || firstNumber == secondNumber)
 
 Console.Write($"The maximum number is {max}");
 
+*/
+
+
+// Задача №3: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+
+/*
+
+Console.Write("Input number: ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+int result = number % 2;
+
+if(result == 0)
+    Console.Write($"{number} this is an even number");
+else
+    Console.Write($"{number} this is an odd number");
 
 */
 
 
+// Задача №4: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+
+/*
+
+Console.Write("Input number: ");
+int number = Convert.ToInt32(Console.ReadLine());
+int currentPlus = 2;
+int currentMinus = -2;
+
+if(number >= currentPlus)
+{
+    while(currentPlus <= number)
+    {
+        Console.Write($"{currentPlus}, ");
+        currentPlus = currentPlus + 2;
+    }
+}
+
+if(number <= currentMinus)
+{
+    while(currentMinus >= number)
+    {
+        Console.Write($"{currentMinus}, ");
+        currentMinus = currentMinus - 2;
+    }
+}
+
+*/
