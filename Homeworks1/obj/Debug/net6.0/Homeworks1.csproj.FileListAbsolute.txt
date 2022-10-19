@@ -1,0 +1,15 @@
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\bin\Debug\net6.0\Homeworks1.exe
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\bin\Debug\net6.0\Homeworks1.deps.json
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\bin\Debug\net6.0\Homeworks1.runtimeconfig.json
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\bin\Debug\net6.0\Homeworks1.dll
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\bin\Debug\net6.0\Homeworks1.pdb
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.csproj.AssemblyReference.cache
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.AssemblyInfoInputs.cache
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.AssemblyInfo.cs
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.csproj.CoreCompileInputs.cache
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.dll
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\refint\Homeworks1.dll
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.pdb
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\Homeworks1.genruntimeconfig.cache
+C:\Users\Менеджер\Desktop\Новая папка\Учеба\C#\Homeworks\Homeworks1\obj\Debug\net6.0\ref\Homeworks1.dll
