@@ -90,7 +90,7 @@ int[] CreateArray(int size)
 
     for (int i = 0; i < size; i++)
     {
-        Console.Write("Input following array number: ");
+        Console.Write("Input number: ");
         number = Convert.ToInt32(Console.ReadLine());
         array[i] = number;
     }
@@ -103,7 +103,7 @@ void ShowArray(int[] array)
         Console.Write(array[i] + " ");
 }
 
-Console.Write("Input a number of elements: ");
+Console.Write("Enter size of array: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = CreateArray(n);
